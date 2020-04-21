@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Alamofire Img Upload/ViewController.swift"
+            timestampString = "608114969.4911931"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "BtnSubmitTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in closure #2 (Alamofire.SessionManager.MultipartFormDataEncodingResult) -&gt; () in Alamofire_Img_Upload.ViewController.BtnSubmitTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "Alamofire Img Upload"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cgt-jod-mac-ashutosh/Desktop/Ravi&apos;s%20Project/April%208/Alamofire%20Img%20Upload/Alamofire%20Img%20Upload/ViewController.swift"
+                  timestampString = "608114624.55156"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "1045">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in closure #2 (Alamofire.SessionManager.MultipartFormDataEncodingResult) -&gt; () in Alamofire_Img_Upload.ViewController.BtnSubmitTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "Alamofire Img Upload"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cgt-jod-mac-ashutosh/Desktop/Ravi&apos;s%20Project/April%208/Alamofire%20Img%20Upload/Alamofire%20Img%20Upload/ViewController.swift"
+                  timestampString = "608114624.5554841"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "138"
+                  endingLineNumber = "138"
+                  offsetFromSymbolStart = "3120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
